@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Salon</title>
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<style>
+background-color: #e9cfdd; 
+</style>
+
+    <img src="creams.jpg" alt="salon" style="width:400px;height:300px;">
+	
+
+</head>
+<body>
+    <div>
+
+    </div>
+</body>
+</html>
+ 
