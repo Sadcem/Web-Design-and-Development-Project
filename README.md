@@ -18,13 +18,13 @@ This repository contains the source code for **Glow Beauty Salon**, a project co
 
 ## Screenshots
 1. **Home Page:**
-   ![Home Page](<img width="1080" alt="Screenshot 2023-12-07 210811" src="https://github.com/user-attachments/assets/fa8690f0-cf68-43fd-841c-fef781db5cb4">).
+<img width="1080" alt="Screenshot 2023-12-07 210811" src="https://github.com/user-attachments/assets/fa8690f0-cf68-43fd-841c-fef781db5cb4">  
 
 2. **Services Page:**
-   ![Services Page](<img width="1082" alt="2023-12-07 (12)" src="https://github.com/user-attachments/assets/b68bd153-0161-41fd-888d-0d9cdf0cf644">)
+   <img width="1082" alt="2023-12-07 (12)" src="https://github.com/user-attachments/assets/b68bd153-0161-41fd-888d-0d9cdf0cf644">
 
 3. **Home Page with Decorative Elements:**
-   ![Decorative Home Page](<img width="1082" alt="2023-12-07 (2)" src="https://github.com/user-attachments/assets/53166da8-691e-4185-98f0-63dd944cc528">)
+   (<img width="1082" alt="2023-12-07 (2)" src="https://github.com/user-attachments/assets/53166da8-691e-4185-98f0-63dd944cc528">
 
 These screenshots showcase different sections of the website, including the home page and services page, where users can view the salon’s offerings in detail.
 
