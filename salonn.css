@@ -1,0 +1,238 @@
+@import url('http://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800.900display=swap');
+*
+ {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Poppins', sans-serif;
+ } 
+ section
+ {
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    padding: 50px 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #fff;
+ }
+ img{
+    width: 100%;
+ }
+ .logo img
+ {
+    width: 80px;
+ }
+ header
+ 
+   { position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    z-index: 1000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #fff;
+    box-shadow: 0 4px 41px;
+    padding: 15px 10%;
+    transition: 0.2s;
+ }
+ .navbar
+ {
+    display: flex;
+ }
+ .navbar a
+ {
+    font-size: 1rem;
+    paddin: 11px 20px;
+    color: #070407;
+    font-weight: 600;
+    text-transform: uppercase;
+ }
+ .navbar a:hover {
+    color: #d099b7;
+ }
+
+header ul
+{
+    position: relative;
+    display: flex;
+}
+header ul li
+{
+    list-style: none;
+}
+header ul li a
+{
+    display: inline-block;
+    color: #333;
+    font-weight: 400;
+    margin-left: 40px;
+    text-decoration: none;
+}
+.content
+{
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.content .textBox
+{
+    position: relative;
+    max-width: 600px;
+}
+.content .textBox h2
+{
+    color: #070407;
+    font-size: 4em;
+    line-height: 1.4em;
+    font-weight: 500;
+}
+.content .textBox h2 span
+{
+    color: #d099b7;
+    font-size: 1.2em;
+    font-weight: 500;
+}
+.content .textBox p
+{
+    color:#333;
+}
+
+.content .textBox a
+{
+    display: inline-block;
+    margin-top: 20px;
+    padding: 8px 20px;
+    background: #d099b7;
+    color: #fff;
+    border-radius: 40px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    text-decoration: none;
+}
+.content .imgBox img
+{
+    max-width: 200%;
+    display:flex;
+    justify-content: flex-end;
+    padding-right: 50px;
+    margin-top: 50px;
+}
+.content .imgBox img
+{
+    max-width: 1000px;
+}
+.creams
+{
+    position: absolute;
+    left: 50%;
+    bottom: 50px;
+    transform: translateX(-50%);
+    display:inline-block;
+}
+.creams li
+{
+    list-style: none;
+    display: inline-block;
+    margin:auto;
+    cursor: pointer;
+    transition: 0.5px;
+}
+.creams li:hover
+{
+    transform: translateY(-15px);
+}
+.creams li img
+{
+    max-width: 170px;
+}
+.circle
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #d099b7;
+    clip-path: circle(600px at right 800px);
+}
+.Services 
+{
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+
+
+}
+.Services .services-container
+{
+    position:relative;
+    max-width: 600px;
+    justify-content:space-between;
+    align-items: center;
+}
+.Services .services-container h1
+{
+    color: #070407;
+    font-size: 4em;
+    line-height: 1.4em;
+    font-weight: 600;
+    justify-content:space-between;
+    align-items: center;
+
+}
+.Services .services-container h2
+{
+    color: #070407;
+    font-size: 2em;
+    line-height: 1.4em;
+    font-weight: 500;
+    align-items:center;
+}
+.baloon
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #d099b7;
+    clip-path: circle(600px at right 800px);
+}
+.Contact 
+{
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Contact .button
+{
+    display: inline-block;
+    margin-top: 20px;
+    padding: 8px 20px;
+    background: #d099b7;
+    color: #fff;
+    border-radius: 40px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    text-decoration: none;
+}
+.baloon2
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #d099b7;
+    clip-path: circle(800px at right 800px);
+}
